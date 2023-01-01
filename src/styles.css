@@ -61,3 +61,15 @@ h3 {
 .card img {
   width: 100%;
 }
+
+button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: black;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  outline: none;
+  padding: 10px 15px;
+  width: 100px;
+}
